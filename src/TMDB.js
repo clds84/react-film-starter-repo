@@ -1,7 +1,8 @@
 const TMDB = {
   api_key: '<REPLACE_THIS_WITH_TMDB_API_KEY>',
   films: [
-    {
+    { 
+      
       "id": 346364,
         "title": "It",
         "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
